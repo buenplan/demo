@@ -2,170 +2,170 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Creative portfolio</title>
-    <link>https://example.org/</link>
+    <link>https://buenplan.github.io/demo/</link>
     <description>Recent content on Creative portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
     
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://buenplan.github.io/demo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Name of the work 2</title>
-      <link>https://example.org/portfolio/work2/</link>
+      <link>https://buenplan.github.io/demo/portfolio/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work2/</guid>
+      <guid>https://buenplan.github.io/demo/portfolio/work2/</guid>
       <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Name of the work 3</title>
-      <link>https://example.org/portfolio/work3/</link>
+      <link>https://buenplan.github.io/demo/portfolio/work3/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work3/</guid>
+      <guid>https://buenplan.github.io/demo/portfolio/work3/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Item without image</title>
-      <link>https://example.org/portfolio/work4/</link>
+      <link>https://buenplan.github.io/demo/portfolio/work4/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work4/</guid>
+      <guid>https://buenplan.github.io/demo/portfolio/work4/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Name of the work 5</title>
-      <link>https://example.org/portfolio/work5/</link>
+      <link>https://buenplan.github.io/demo/portfolio/work5/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work5/</guid>
+      <guid>https://buenplan.github.io/demo/portfolio/work5/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Name of the work 6</title>
-      <link>https://example.org/portfolio/work6/</link>
+      <link>https://buenplan.github.io/demo/portfolio/work6/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work6/</guid>
+      <guid>https://buenplan.github.io/demo/portfolio/work6/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Name of the work 7</title>
-      <link>https://example.org/portfolio/work7/</link>
+      <link>https://buenplan.github.io/demo/portfolio/work7/</link>
       <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work7/</guid>
+      <guid>https://buenplan.github.io/demo/portfolio/work7/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Name of the work 8</title>
-      <link>https://example.org/portfolio/work8/</link>
+      <link>https://buenplan.github.io/demo/portfolio/work8/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work8/</guid>
+      <guid>https://buenplan.github.io/demo/portfolio/work8/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Item with image</title>
-      <link>https://example.org/portfolio/work9/</link>
+      <link>https://buenplan.github.io/demo/portfolio/work9/</link>
       <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work9/</guid>
+      <guid>https://buenplan.github.io/demo/portfolio/work9/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Item with image</title>
-      <link>https://example.org/portfolio/work10/</link>
+      <link>https://buenplan.github.io/demo/portfolio/work10/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work10/</guid>
+      <guid>https://buenplan.github.io/demo/portfolio/work10/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://example.org/post/creating-a-new-theme/</link>
+      <link>https://buenplan.github.io/demo/post/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/creating-a-new-theme/</guid>
+      <guid>https://buenplan.github.io/demo/post/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Awesomeness</title>
-      <link>https://example.org/post/01/</link>
+      <link>https://buenplan.github.io/demo/post/01/</link>
       <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/01/</guid>
+      <guid>https://buenplan.github.io/demo/post/01/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Wonderful</title>
-      <link>https://example.org/post/02/</link>
+      <link>https://buenplan.github.io/demo/post/02/</link>
       <pubDate>Thu, 25 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/02/</guid>
+      <guid>https://buenplan.github.io/demo/post/02/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Item with image</title>
-      <link>https://example.org/portfolio/work11/</link>
+      <link>https://buenplan.github.io/demo/portfolio/work11/</link>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work11/</guid>
+      <guid>https://buenplan.github.io/demo/portfolio/work11/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Name of the work 1</title>
-      <link>https://example.org/portfolio/work1/</link>
+      <link>https://buenplan.github.io/demo/portfolio/work1/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work1/</guid>
+      <guid>https://buenplan.github.io/demo/portfolio/work1/</guid>
       <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://example.org/about/</link>
+      <link>https://buenplan.github.io/demo/about/</link>
       <pubDate>Tue, 14 Apr 2015 22:17:00 +0000</pubDate>
       
-      <guid>https://example.org/about/</guid>
+      <guid>https://buenplan.github.io/demo/about/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Yow !</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://example.org/post/hugoisforlovers/</link>
+      <link>https://buenplan.github.io/demo/post/hugoisforlovers/</link>
       <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/hugoisforlovers/</guid>
+      <guid>https://buenplan.github.io/demo/post/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -176,20 +176,20 @@ Follow the following steps:
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://example.org/post/goisforlovers/</link>
+      <link>https://buenplan.github.io/demo/post/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/goisforlovers/</guid>
+      <guid>https://buenplan.github.io/demo/post/goisforlovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>https://example.org/post/migrate-from-jekyll/</link>
+      <link>https://buenplan.github.io/demo/post/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/migrate-from-jekyll/</guid>
+      <guid>https://buenplan.github.io/demo/post/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -197,10 +197,10 @@ This document is a brief primer on using go templates.</description>
     
     <item>
       <title>Colenak</title>
-      <link>https://example.org/post/03/</link>
+      <link>https://buenplan.github.io/demo/post/03/</link>
       <pubDate>Sat, 28 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/03/</guid>
+      <guid>https://buenplan.github.io/demo/post/03/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
